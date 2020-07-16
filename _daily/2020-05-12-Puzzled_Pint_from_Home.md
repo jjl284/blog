@@ -16,7 +16,7 @@ YESTERDAY:
   * new brussel sprouts recipe!
 
 TODAY:
-* 
+* puzzled pint
 
 LEARNINGS:
 * struct in Python
